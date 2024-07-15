@@ -49,7 +49,7 @@ reboot
 sudo depmod -a
 sudo modprobe v4l2loopback card_label="Camera"
 
-## 12) desde la terminal en el directorio Home, Every time you want to open the Iriun Webcam run:
+## 12) desde la terminal en el directorio Home, Every time you want to open the Iriun Webcam run, este paso es muy importante:
 ./iriun.sh
 
 Luego ve y abre tu aplicacion, recuerda haber conectado primero tu Smart Phone y abrir Irun en el. y listooooo a gozrte.
